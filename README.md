@@ -11,7 +11,7 @@ TODO:
 
 ## Installation
 You're going to need to install the following ruby gems:                                                                     
-`gem install nokogiri`
+`gem install lolcat`
 
 ---
 
@@ -28,7 +28,6 @@ View Help
 ---
 
 ## Help Menu
-`
 HONEY CAT ... BASH + NC + LOVE 
 
 -p <PORT(1-65535)>
@@ -46,8 +45,7 @@ HONEY CAT ... BASH + NC + LOVE
 -v
 	Display version.
 -h
-	Display this menu. 
-`
+	Display this menu.
 ---
 
 ### Credits
