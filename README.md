@@ -27,26 +27,5 @@ View Help
 
 ---
 
-## Help Menu
-HONEY CAT ... BASH + NC + LOVE 
-
--p <PORT(1-65535)>
-	Define the port to setup honeypot on.
--o <FILE>
-	Output unique IP addrs to file. 
--b <BANNER>
-	Set a custom banner for your honeypot.
--s 
-	Use default ssh banner. 
--w 
-	Use default web server banner.
--l
-	Use lolcat if available.
--v
-	Display version.
--h
-	Display this menu.
----
-
 ### Credits
 Kent 'picat' Gruber
